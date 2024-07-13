@@ -4,3 +4,9 @@ h1{
 body{
     background-color: #74f42a;
 }
+div{
+    width: 100px;
+    height: 100px;
+color: #eee;
+background-color: #eee;
+}
